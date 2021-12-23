@@ -119,7 +119,7 @@ main .main_about{
 	font-size: 44px;
 	padding-bottom: 30px;
 }
-.photo img{
+.photo{
 	width: 225px;
 	height: 225px;
 	margin: 20px auto;
